@@ -1,4 +1,5 @@
 Harmony Store
+
 Harmony Store, müzik aletleri ve müzikle ilgili ürünleri sunan bir e-ticaret platformudur. Asp.Net MVC 5, 
 Bootstrap, Entity Framework, CSS ve MSSQL veritabanı kullanarak, Visual Studio IDE'yi tercih ettim. Bu 
 teknolojileri bir araya getirerek Harmony Store adlı e-ticaret sitesini geliştirdim. Site, müzik aletleri ve ilgili 
@@ -6,7 +7,9 @@ teknolojileri bir araya getirerek Harmony Store adlı e-ticaret sitesini gelişt
 Framework sayesinde MSSQL veritabanı üzerinde güvenli ve etkili bir veri yönetimi gerçekleştiriyor. CSS 
 ile de siteye özgün bir tasarım dokunuşu ekledim. Tüm bu geliştirmeleri Visual Studio IDE üzerinde 
 gerçekleştirdim, böylece projeyi daha hızlı ve verimli bir şekilde yönetebildim.
+
 İş Kuralları
+
 ➢ Her müzik aleti en az bir kategoriye ait olmalıdır.
 ➢ Bir kategoriye birden çok müzik aleti bağlı olabilir.
 ➢ Bir tedarikçi bir veya daha fazla müzik aleti tedarik edebilir.
