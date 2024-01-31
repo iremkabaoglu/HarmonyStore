@@ -11,10 +11,15 @@ gerçekleştirdim, böylece projeyi daha hızlı ve verimli bir şekilde yönete
 İş Kuralları
 
 ➢ Her müzik aleti en az bir kategoriye ait olmalıdır.
+
 ➢ Bir kategoriye birden çok müzik aleti bağlı olabilir.
+
 ➢ Bir tedarikçi bir veya daha fazla müzik aleti tedarik edebilir.
+
 ➢ Her stok yalnızca bir müzik aletine ait olmalıdır.
+
 ➢ Bir müşteri birden çok satın alma yapabilir.
+
 ➢ Bir satışta bir veya daha fazla müzik aleti bulunabilir.
 
 Anasayfa
